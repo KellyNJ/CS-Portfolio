@@ -20,7 +20,7 @@ Projects range from algorithmic challenges to data processing and scripting tool
 
 [Browse Python Projects](https://github.com/KellyNJ/CS-Portfolio/tree/main/Python)
 
--- 
+---
 
 ### **C++ Projects**
 Simple projects written in C++ that demonstrate understanding of core systems programming topics.
